@@ -11,6 +11,9 @@ import authRoutes from "./routes/auth.route.js";
 import messageRoutes from "./routes/message.route.js";
 import { app, server } from "./lib/socket.js";
 
+//  git add .      
+//  git commit -m "Updated chunkSizeWarningLimit in vite.config.js"
+//  git push origin main                  
 
 dotenv.config();
 
